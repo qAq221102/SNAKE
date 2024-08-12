@@ -4,5 +4,6 @@
   - **Brick**(bump then die)
   - **Swirl**(deduct a point when through)
   - **Wormhole**(transmit to another one randomly)
+  - **Mix**(mix **Brick**, **Swirl**, **Wormhole**)
 - supports **record**, **speed up**, **diagonal move**
 - simply control by keyboard

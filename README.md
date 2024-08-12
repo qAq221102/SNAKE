@@ -1,0 +1,8 @@
+- written in **C**
+- run **snake.exe** then follow the prompt and enjoy a different Snake
+- **special mode**:
+  - **Brick**(bump then die)
+  - **Swirl**(deduct a point when through)
+  - **Wormhole**(transmit to another one randomly)
+- supports **record**, **speed up**, **diagonal move**
+- simply control by keyboard
